@@ -1,4 +1,31 @@
-# DOCKER Insatllation automated shell script 
+<h1 align="center">Welcome to My Website</h1>
+
+## English Version 🇬🇧 
+
+<details>
+
+ <summary>Click to expand!</summary>
+ 
+ 
+ ### Description
+<br>
+This project's challenge was to create an Entity-Relationship Diagram (ERD) following the first three Normal Forms of Relational Databases from a provided non-normalized table. The ER Diagram guided the creation of the database and subsequent table population. The database created, SpotifyClone, was then used to practice SQL queries.
+
+</details>
+
+
+## French Version 🇫🇷
+
+<details>
+
+<summary>Click to expand!</summary>
+ 
+ Bienvenue dans la version francaise de ce projet
+ 
+ 
+ 
+</details>
+
  
 
 * Download the script.
