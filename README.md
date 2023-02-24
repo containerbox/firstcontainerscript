@@ -32,21 +32,21 @@
 
 <details>
 
-<summary>Click to expand!</summary>
+<summary>Cliquer pour dérouler !</summary>
  
  Bienvenue dans la version francaise de ce projet
  
- * Download the script.
+ * Télécharger le script.
 
-* change the file permission with 777 
+* changer la permission du fichier 777 
 
     ` ` ` sudo chmod 777 firstscript.sh ` ` ` 
 
-* Run the script with sudo.  
+* Démarrer le script avec sudo   
 
    ` ` ` sudo ./firstscript.sh ` ` ` 
 
-* Latest current version with respective OS's of docker will be installed.
+* Latest current version with respective OS's of containerbox will be installed.
 
  ## Prerequisite:
     * Ubuntu OS.
