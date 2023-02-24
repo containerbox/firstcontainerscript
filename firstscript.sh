@@ -38,7 +38,7 @@ echo
        #adds your username to the docker group
 	usermod -aG docker ${USER}
        
-       echo "docker successfully installed"
+       echo "containerbox successfully installed"
 
 echo
 echo
