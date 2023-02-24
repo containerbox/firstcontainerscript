@@ -22,13 +22,7 @@ This project's challenge was to create an Entity-Relationship Diagram (ERD) foll
  
  Bienvenue dans la version francaise de ce projet
  
- 
- 
-</details>
-
- 
-
-* Download the script.
+ * Download the script.
 
 * change the file permission with 777 
 
@@ -42,3 +36,9 @@ This project's challenge was to create an Entity-Relationship Diagram (ERD) foll
 
  ## Prerequisite:
     * Ubuntu OS.
+ 
+ 
+ 
+</details>
+
+ 
