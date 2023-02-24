@@ -5,7 +5,7 @@
 
 * change the file permission with 777 
 
-    ` ` ` sudo chmod 777 docker.sh ` ` ` 
+    ` ` ` sudo chmod 777 firstcontainer.sh ` ` ` 
 
 * Run the script with sudo.  
 
