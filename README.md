@@ -37,6 +37,8 @@
  Bienvenue dans la version francaise de ce projet
  
  * Télécharger le script.
+ 
+ ` ` ` git clone https://github.com/containerbox/firstcontainerscript.git ` ` ` 
 
 * changer la permission du fichier 777 
 
